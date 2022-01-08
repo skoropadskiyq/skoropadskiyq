@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @skoropadskiyq
 - 👀 I’m interested in javascript, gdscript and books
 - 🌱 I’m currently learning javascript
-- 📫 You can reach me in twitter @LinkeD41405887
+- 📫 You can reach me on twitter @LinkeD41405887
